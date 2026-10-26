@@ -1,2 +1,2 @@
 # Patchify-CNN-Implementation
-A NumPy/PyTorch implementation and empirical analysis of a Convolutional Neural Network utilizing custom "patchify" matrix-multiplication convolution, Cyclical Learning Rates (CLR), and Label Smoothing on the CIFAR-10 dataset.
+This project explores spatial feature extraction using a custom convolutional layer structure. It evaluates optimization schedules, model width vs. filter size scaling, and regularization techniques to prevent overfitting in custom deep networks.
